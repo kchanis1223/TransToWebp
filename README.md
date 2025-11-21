@@ -8,6 +8,7 @@
 - 도구: libwebp (`img2webp.exe`, `cwebp.exe`) 자동 다운로드 → `tools/` 캐시
 
 ## 실행
+- 'Before' 폴더와 'Webp' 폴더를 생성
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\convert_to_webp.ps1
 ```
